@@ -1,12 +1,13 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="FashionWeak"> 
-        <version>1.0.6.2</version> 
+        <version>1.0.7.0</version> 
         <url>https://raw.githubusercontent.com/DonatEW/FashionWeak/master/FashionWeak.exe</url> 
         <fileName>FashionWeak.exe</fileName> 
-        <md5>dcfa3f6176ec241e54f306b695155a08</md5>
+        <md5>d37d50f4ed53f542c461ffab6f4cb75b</md5>
         <description>Обновление: 07/05/2018:
-        1. Халявный хост.</description>
+        1. Удаление налажено
+		2. Сортировка товара добавлена</description>
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
