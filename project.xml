@@ -1,13 +1,13 @@
-<?xml version="1.0"?> 
-<sharpUpdate> 
-    <update appID="FashionWeak"> 
-        <version>1.0.7.0</version> 
-        <url>https://raw.githubusercontent.com/DonatEW/FashionWeak/master/FashionWeak.exe</url> 
-        <fileName>FashionWeak.exe</fileName> 
-        <md5>d37d50f4ed53f542c461ffab6f4cb75b</md5>
+<?xml version="1.0"?>
+<sharpUpdate>
+    <update appID="FashionWeak">
+        <version>1.0.7.1</version>
+        <url>https://raw.githubusercontent.com/DonatEW/FashionWeak/master/FashionWeak.exe</url>
+        <fileName>FashionWeak.exe</fileName>
+        <md5>6276e24defef69c7ee735b2c65ee2eea</md5>
         <description>Обновление: 07/05/2018:
         1. Удаление налажено
 		2. Сортировка товара добавлена</description>
-        <launchArgs></launchArgs> 
-    </update> 
+        <launchArgs></launchArgs>
+    </update>
 </sharpUpdate>
